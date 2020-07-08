@@ -24,6 +24,7 @@
 - [Sean Gorham](https://github.com/sgorham)
 Bala Hantsi
 Dante Chakravorti
+- Joyonta Saha
 - Nico Tek
 - Austin Clements (https://github.com/austinclem1)
 - [Shreyas Dodamani](https://github.com/shreyasdoda)
